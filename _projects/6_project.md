@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: Dynamics of diseases using compartmental epidemiological models
 description: a project with no image
 img:
 importance: 4
